@@ -1,0 +1,15 @@
+.divnav{
+    background-color: black
+};
+.imgnav{
+    margin-left : 20%
+};
+.divbody1{
+        background-image: url('https://www.theknot.com/tk-media/images/6695e24a-8684-44b2-9fb7-f7255efec7ae');
+        background-repeat: no-repeat;
+        background-attachment: fixed; 
+        background-size: 100% 100%;
+      }
+footer{
+    margin: center;
+}
